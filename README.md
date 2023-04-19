@@ -1,1 +1,1 @@
-# Data analyst by Yandex.Practicum
+# Data analyst projects by Yandex.Practicum
