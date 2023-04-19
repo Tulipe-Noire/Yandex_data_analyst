@@ -1,1 +1,1 @@
-# Yandex_data_analyst
+# Data analyst by Yandex.Practicum
